@@ -1,0 +1,13 @@
+package onpe.bayes.onpeapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OnpeapiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OnpeapiApplication.class, args);
+	}
+
+}
